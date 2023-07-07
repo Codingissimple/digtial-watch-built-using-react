@@ -1,2 +1,2 @@
-# digtial-watch-built-using-react
+Digital Watch using React js
 
