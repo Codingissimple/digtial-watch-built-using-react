@@ -1,4 +1,4 @@
 # Learn to code timer using reactjs
 
-https://codingissimple.com/build-digital-watch-using-react/
 
+https://codingissimple.com/learn-to-code-timer-app-using-javascript-and-react/
